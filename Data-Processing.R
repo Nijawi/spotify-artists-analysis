@@ -2,6 +2,8 @@
 spotifyKey <- "Your Own Key"
 spotifySecret <- "Your Own ID"
 
+# A change
+
 # Request an access token in order to authorise my app to retrieve and manage Spotify data
 library(Rspotify)
 library(httr)
